@@ -1,0 +1,34 @@
+_repo: The-Poors_60384
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Orban, Paul
+    birthdate: 1896
+    deathdate: 1974
+    gutenberg_agent_id: '34272'
+    url: http://www.gutenberg.org/2009/agents/34272
+creator:
+  author:
+    agent_name: Lorayne, Harry
+    gutenberg_agent_id: '50941'
+    url: http://www.gutenberg.org/2009/agents/50941
+description: ''
+gutenberg_issued: '2019-09-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60384'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Poor -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcsh 'Television game shows -- Fiction'
+- !lcsh 'United States -- Fiction'
+- GITenberg
+title: The Poors
+url: http://www.gutenberg.org/ebooks/60384
